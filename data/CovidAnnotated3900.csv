@@ -1,4 +1,4 @@
-Datetime,Tweet Id,Metaphor[1or0],Mapping,Hashtags_sp,AltMapping
+Datetime, Tweet Id,Metaphor[1or0],Mapping,Hashtags_sp,AltMapping
 2020-03-01 11:58:56+00:00,1234085713613918220,0,Landscape,['coronaðŸ¦ '],
 2020-03-01 05:55:42+00:00,1233994300867792896,1,Storm,['coronavirus'],
 2020-03-01 05:36:01+00:00,1233989346358894594,0,Journey,"['coronavirusupdate', 'coronavirus', 'covid19']",
